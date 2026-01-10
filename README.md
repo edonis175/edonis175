@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 🦅 About Me:
 🔭 I’m currently studying Computer Science in "Isa Boletini" Mitrovice <br>
-🌐 I learned Frontend & Backend at Speeex <br>👯 I’m looking to create full stack apps<br>🤝 I’m looking for frontend works<br>🌱 I’m working on 2 differents apps<br>💬 Ask me about my roadmap<br>⚡ Fun fact about me I am developing my mind 
+📚 I learned Frontend & Backend at Speeex <br>👯 I’m looking to create full stack apps<br>🤝 I’m looking for frontend work<br>🌱 I’m working on 2 differents apps<br>💬 Ask me about my roadmap<br>💡 Fun fact about me I am developing my mind 
 
 
 ## 🌐 Socials:
