@@ -11,16 +11,7 @@
 
 ### Projects
 
-| Project | Description |
-| --- | --- |
-| [Osmani-Taxi](https://github.com/edonis175/osmani-taxi) | Taxi service web application |
-| [GJY-GYM](https://github.com/edonis175/GJY-GYM) | Gym website |
-| [Flori-Garden-clone](https://github.com/edonis175/Flori-Garden-clone) | Garden store clone |
-| [Shophub](https://github.com/edonis175/shophub-react-web) | Online shop built with React |
-| [Cook's Compass](https://github.com/edonis175/Cook-s-Compass-) | Recipe finder |
-| [Osmani Energy Solution](https://github.com/edonis175/osmani-energy-solution) | Energy solutions website |
-| [Sport-Zone](https://github.com/edonis175/Sport-Zone) | Full stack sports web application |
-| [Unimax](https://github.com/edonis175/Unimax) | Web application |
+[Osmani-Taxi](https://github.com/edonis175/osmani-taxi) · [GJY-GYM](https://github.com/edonis175/GJY-GYM) · [Flori-Garden-clone](https://github.com/edonis175/Flori-Garden-clone) · [Shophub](https://github.com/edonis175/shophub-react-web) · [Cook's Compass](https://github.com/edonis175/Cook-s-Compass-) · [Osmani Energy Solution](https://github.com/edonis175/osmani-energy-solution) · [Sport-Zone](https://github.com/edonis175/Sport-Zone) · [Unimax](https://github.com/edonis175/Unimax)
 
 ### Interests
 
