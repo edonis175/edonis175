@@ -1,13 +1,6 @@
-# 🌐 About Me:
-#  About Me:<br>🔭 I’m currently studying Computer Science in University "Isa Boletini" Mitrovice <br><br>📚 I finished two 3 months Courses in Frontend & Backend Modules at Speeex, With Certificates<br>👯 I’m looking to create full stack apps<br>🤝 I’m looking for frontend work<br>🌱 I’m working on 1 Collaboration Website<br>💬 Ask me about my roadmap<br>💡 Fun fact about me I am developing myself 
-
-
-
-<p align="center">
-  <a href="https://github.com/edonis175">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=710C04&center=true&vCenter=true&width=435&lines=Building%20Something%20Impressive;Tech%20Source%20Enthusiast;Full%20Stack%20Developer" />
-  </a>
-</p>
+# 🦅 About Me:
+🔭 I’m currently studying Computer Science in University "Isa Boletini" Mitrovice <br>
+📚 I learned Frontend & Backend at Speeex, With Certificates <br>👯 I’m looking to create full stack apps<br>🤝 I’m looking for frontend work<br>🌱 I’m working on 1 Collaboration Web<br>💬 Ask me about my roadmap<br>💡 Fun fact about me I am developing myself 
 
 
 ## 🌐 Socials:
