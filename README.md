@@ -19,7 +19,7 @@
 
 Taxi service web application for booking and managing rides.
 
- src="<img width="2070" height="1380" alt="image" src="https://github.com/user-attachments/assets/023710d1-3cba-46eb-bf61-7c0cdb1d8679" />" 
+ <img width="2070" height="1380" alt="image" src="https://github.com/user-attachments/assets/023710d1-3cba-46eb-bf61-7c0cdb1d8679" />
 
 
 </td>
@@ -47,6 +47,8 @@ Gym website with information about training and membership.
 #### [Sport-Zone](https://github.com/edonis175/Sport-Zone)
 
 Full stack sports web application with a frontend and backend.
+<br>
+<br>
 
 <img width="620" height="219" alt="image" src="https://github.com/user-attachments/assets/557b4d7e-3a49-4899-833d-b353e26afd3b" />
 
@@ -69,6 +71,8 @@ Clone of a garden store website, built as a frontend practice project.
 #### [Unimax](https://github.com/edonis175/Unimax)
 
 Web application built with React.
+<br>
+<br>
 
 <img width="1902" height="908" alt="image" src="https://github.com/user-attachments/assets/b6b15f8f-0d63-4917-a9db-6792b98022c4" />
 
@@ -81,7 +85,8 @@ Web application built with React.
 #### [Shophub](https://github.com/edonis175/shophub-react-web)
 
 Online shop built with React, with product browsing and a shopping flow.
-
+<br>
+<br>
 <img width="1901" height="907" alt="image" src="https://github.com/user-attachments/assets/9c4f26eb-fd81-4fa4-b403-f072aea4a635" />
 
 
