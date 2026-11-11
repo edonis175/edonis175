@@ -1,57 +1,104 @@
-<h1>Edonis Osmani</h1>
+<!-- Header Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=edonisii&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AutoDev%20Generated%20Profile&descSize=20&descAlignY=55" />
+</p>
 
-Frontend developer and Computer Science student. Looking for frontend roles, freelance work, and collaboration.
+<!-- Typing Effect -->
+<p align="center">
+  <a href="https://github.com/edonis175">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Building%20Amazing%20Software;Open%20Source%20Enthusiast;Full%20Stack%20Developer" />
+  </a>
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### About
+### 👨‍💻 About Me
 
-Bachelor's student in Computer Science at the University of Mitrovica "Isa Boletini".
+> Web developer 
 
-Completed two 3-month training programs in Frontend and Backend development at Speeex, with certificates.
-
-Building full stack applications. Open to work.
-
-Ask me about my roadmap.
-
-</td>
-<td width="50%" valign="top">
-
-### Stack
-
-**Frontend:** React, React Native, Vite, TailwindCss, SASS, Html, Css, Bootstrap, Javascript
-
-**Backend:** Node.js, MongoDB, JWT, 
-
-**Tools:** Git, GitHub, GitHub Actions, npm, Figma, Canva, VS Code, Claude, ChatGBT  
-
-</td>
-</tr>
-</table>
-
-### Projects
-
-| Project | Description |
-| --- | --- |
-| [Osmani-Taxi](https://github.com/edonis175/osmani-taxi) | Taxi service web application |
-| [GJY-GYM](https://github.com/edonis175/GJY-GYM) | Gym website |
-| [Flori-Garden-clone](https://github.com/edonis175/Flori-Garden-clone) | Garden store clone |
-| [Shophub](https://github.com/edonis175/shophub-react-web) | Online shop built with React |
-| [Cook's Compass](https://github.com/edonis175/Cook-s-Compass-) | Recipe finder |
-| [Osmani Energy Solution](https://github.com/edonis175/osmani-energy-solution) | Energy solutions website |
-| [Sport-Zone](https://github.com/edonis175/Sport-Zone) | Full stack sports web application |
-| [Unimax](https://github.com/edonis175/Unimax) | Web application |
-
-### Interests
-
-Gym and music.
-
-### Contact
-
-[LinkedIn](https://www.linkedin.com/in/edonis-osmani-8a472537a) · [Email](mailto:edonisosmani02@gmail.com)
+> 📊 **GitHub:** [edonis175](https://github.com/edonis175)
 
 
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-44%25-#f7df1e?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-31%25-#563d7c?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-25%25-#e34c26?style=for-the-badge&logoColor=white" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edonis175&layout=compact&theme=tokyonight&count_private=true&hide_progress=false" alt="Top Languages" />
+</p>
 
 
+---
+
+### 📈 GitHub Impact
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edonis175&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edonis175&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+
+---
+
+### 🚀 Highlighted Repositories
+
+<div align="center">
+  <a href="https://github.com/edonis175/osmani-taxi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edonis175&repo=osmani-taxi&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/edonis175/Cook-s-Compass-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edonis175&repo=Cook-s-Compass-&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/edonis175/edonis175">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edonis175&repo=edonis175&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/edonis175/Unimax">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edonis175&repo=Unimax&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/edonis175/Quick-Notes-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edonis175&repo=Quick-Notes-&theme=tokyonight" />
+  </a>
+</div>
+
+<p align="center">
+  <i><a href="https://github.com/edonis175?tab=repositories">Explore all 17 repositories →</a></i>
+</p>
+
+
+
+### ⚡ Recent Activity
+
+- Pushed to [edonis175/Unimax](https://github.com/edonis175/Unimax)
+
+---
+
+<div align="center">
+  [![AutoDev Score](https://img.shields.io/badge/AutoDev%20Score-45/100-yellow?style=for-the-badge&logo=target&logoColor=white)](https://autodev-kappa.vercel.app/dashboard?user=edonis175)
+</div>
+
+### 📫 Connect with me
+
+<p align="center">
+  <a href="https://github.com/edonis175"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edonis175&color=blueviolet" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>"Writing code that writes code to make life easier."</i>
+</p>
+
+<p align="center">
+  <i>Profile auto-generated by <a href="https://autodev-kappa.vercel.app">AutoDev</a></i>
+</p>
