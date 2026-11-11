@@ -19,8 +19,8 @@
 
 Taxi service web application for booking and managing rides.
 
-<img src="<img width="546" height="366" alt="image" src="https://github.com/user-attachments/assets/bb70da26-b44e-42c9-9d90-7f1d913565be" />
-" alt="Osmani-Taxi screenshot" width="100%">
+ src="<img width="2070" height="1380" alt="image" src="https://github.com/user-attachments/assets/023710d1-3cba-46eb-bf61-7c0cdb1d8679" />" 
+
 
 </td>
 <td width="50%" valign="top">
@@ -28,8 +28,7 @@ Taxi service web application for booking and managing rides.
 #### [Osmani Energy Solution](https://github.com/edonis175/osmani-energy-solution)
 
 Energy solutions website presenting services and company information.
-
-<img src="assets/projects/osmani-energy-solution.png" alt="Osmani Energy Solution screenshot" width="100%">
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a73c250f-136c-4bcc-8ed7-09246d4429f8" />
 
 </td>
 </tr>
@@ -39,8 +38,8 @@ Energy solutions website presenting services and company information.
 #### [GJY-GYM](https://github.com/edonis175/GJY-GYM)
 
 Gym website with information about training and membership.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6e300401-7276-4a41-97c0-c73d8e0f0e04" />
 
-<img src="assets/projects/gjy-gym.png" alt="GJY-GYM screenshot" width="100%">
 
 </td>
 <td width="50%" valign="top">
@@ -49,7 +48,8 @@ Gym website with information about training and membership.
 
 Full stack sports web application with a frontend and backend.
 
-<img src="assets/projects/sport-zone.png" alt="Sport-Zone screenshot" width="100%">
+<img width="620" height="219" alt="image" src="https://github.com/user-attachments/assets/557b4d7e-3a49-4899-833d-b353e26afd3b" />
+
 
 </td>
 </tr>
@@ -60,7 +60,8 @@ Full stack sports web application with a frontend and backend.
 
 Clone of a garden store website, built as a frontend practice project.
 
-<img src="assets/projects/flori-garden-clone.png" alt="Flori-Garden-clone screenshot" width="100%">
+<img width="540" height="418" alt="image" src="https://github.com/user-attachments/assets/49e3775c-9c89-4428-bdfd-3724a0a78cc6" />
+
 
 </td>
 <td width="50%" valign="top">
@@ -69,7 +70,8 @@ Clone of a garden store website, built as a frontend practice project.
 
 Web application built with React.
 
-<img src="assets/projects/unimax.png" alt="Unimax screenshot" width="100%">
+<img width="1902" height="908" alt="image" src="https://github.com/user-attachments/assets/b6b15f8f-0d63-4917-a9db-6792b98022c4" />
+
 
 </td>
 </tr>
@@ -80,7 +82,8 @@ Web application built with React.
 
 Online shop built with React, with product browsing and a shopping flow.
 
-<img src="assets/projects/shophub.png" alt="Shophub screenshot" width="100%">
+<img width="1901" height="907" alt="image" src="https://github.com/user-attachments/assets/9c4f26eb-fd81-4fa4-b403-f072aea4a635" />
+
 
 </td>
 <td width="50%" valign="top">
@@ -89,7 +92,8 @@ Online shop built with React, with product browsing and a shopping flow.
 
 Recipe finder that helps users search for recipes.
 
-<img src="assets/projects/cooks-compass.png" alt="Cook's Compass screenshot" width="100%">
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/3eb8e7bb-6450-4180-957b-788000ebde6b" />
+
 
 </td>
 </tr>
