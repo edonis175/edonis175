@@ -19,7 +19,8 @@
 
 Taxi service web application for booking and managing rides.
 
-<img src="assets/projects/osmani-taxi.png" alt="Osmani-Taxi screenshot" width="100%">
+<img src="<img width="546" height="366" alt="image" src="https://github.com/user-attachments/assets/bb70da26-b44e-42c9-9d90-7f1d913565be" />
+" alt="Osmani-Taxi screenshot" width="100%">
 
 </td>
 <td width="50%" valign="top">
@@ -93,10 +94,6 @@ Recipe finder that helps users search for recipes.
 </td>
 </tr>
 </table>
-
-### Interests
-
-Gym and Music.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=edonis175&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
