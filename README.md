@@ -11,7 +11,88 @@
 
 ### Projects
 
-[Osmani-Taxi](https://github.com/edonis175/osmani-taxi) · [GJY-GYM](https://github.com/edonis175/GJY-GYM) · [Flori-Garden-clone](https://github.com/edonis175/Flori-Garden-clone) · [Shophub](https://github.com/edonis175/shophub-react-web) · [Cook's Compass](https://github.com/edonis175/Cook-s-Compass-) · [Osmani Energy Solution](https://github.com/edonis175/osmani-energy-solution) · [Sport-Zone](https://github.com/edonis175/Sport-Zone) · [Unimax](https://github.com/edonis175/Unimax)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Osmani-Taxi](https://github.com/edonis175/osmani-taxi)
+
+Taxi service web application for booking and managing rides.
+
+<img src="assets/projects/osmani-taxi.png" alt="Osmani-Taxi screenshot" width="100%">
+
+</td>
+<td width="50%" valign="top">
+
+#### [Osmani Energy Solution](https://github.com/edonis175/osmani-energy-solution)
+
+Energy solutions website presenting services and company information.
+
+<img src="assets/projects/osmani-energy-solution.png" alt="Osmani Energy Solution screenshot" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [GJY-GYM](https://github.com/edonis175/GJY-GYM)
+
+Gym website with information about training and membership.
+
+<img src="assets/projects/gjy-gym.png" alt="GJY-GYM screenshot" width="100%">
+
+</td>
+<td width="50%" valign="top">
+
+#### [Sport-Zone](https://github.com/edonis175/Sport-Zone)
+
+Full stack sports web application with a frontend and backend.
+
+<img src="assets/projects/sport-zone.png" alt="Sport-Zone screenshot" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Flori-Garden-clone](https://github.com/edonis175/Flori-Garden-clone)
+
+Clone of a garden store website, built as a frontend practice project.
+
+<img src="assets/projects/flori-garden-clone.png" alt="Flori-Garden-clone screenshot" width="100%">
+
+</td>
+<td width="50%" valign="top">
+
+#### [Unimax](https://github.com/edonis175/Unimax)
+
+Web application built with React.
+
+<img src="assets/projects/unimax.png" alt="Unimax screenshot" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Shophub](https://github.com/edonis175/shophub-react-web)
+
+Online shop built with React, with product browsing and a shopping flow.
+
+<img src="assets/projects/shophub.png" alt="Shophub screenshot" width="100%">
+
+</td>
+<td width="50%" valign="top">
+
+#### [Cook's Compass](https://github.com/edonis175/Cook-s-Compass-)
+
+Recipe finder that helps users search for recipes.
+
+<img src="assets/projects/cooks-compass.png" alt="Cook's Compass screenshot" width="100%">
+
+</td>
+</tr>
+</table>
 
 ### Interests
 
